@@ -41,7 +41,7 @@
 
 ![Updated Object Policy](./img/updated-policy.png)
 
-### 6.Test Access Restrictions
+### 6. Test Access Restrictions
 - Attempt to access an object directly from the S3 bucket using its S3 URL. This should be restricted.
 - Access the object through the CloudFront distribution URL (distribution domain name) and verify that it works
 
