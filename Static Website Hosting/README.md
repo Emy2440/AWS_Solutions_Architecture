@@ -17,7 +17,7 @@
 
 #### 3. Configure S3 for Static Website Hosting
 - In the S3 bucket properties, navigate to the "Static Website Hosting" section.
-- Choose "Use this bucket to host a website" and configure the index document.
+- Choose 'Use this bucket to host a website' and configure the index document.
 
 ![configure static website hosting](./img/ep_URL-1.png)
 
