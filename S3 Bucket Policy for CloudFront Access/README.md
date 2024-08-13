@@ -43,7 +43,7 @@
 
 ### 6. Test Access Restrictions
 - Attempt to access an object directly from the S3 bucket using its S3 URL. This should be restricted.
-- Access the object through the CloudFront distribution URL (distribution domain name) and verify that it works
+- Access the object through the CloudFront distribution URL (distribution domain name) and verify that it works.
 
 ![Accessing object URL in CLoudFront](./img/access-URL.png)
 
