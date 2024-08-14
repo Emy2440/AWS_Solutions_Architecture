@@ -295,7 +295,7 @@ ___NOTE: Remember to use the correct private IP address when executing the "ssh 
 3. In the Elastic IPs section, you will see a list of all your Elastic IPs. Check the Associated Instance ID column to see if the IP is attached to any instance. If this column shows as "Not associated" or "N/A", the IP address is unused.
 4. Select the Elastic IP address that is not associated with any instance. Click the Actions dropdown menu, and then click Release Elastic IP addresses. Confirm the release when prompted.
 
-#### Step 10 - Delete Demo VPC - In the VPC Console | FINAL STEP
+#### Step 11 - Delete Demo VPC - In the VPC Console | FINAL STEP
 Deleting the VPC will delete all of the associated subnets, internet gatways, route tables, security groups, etc.
 
 ![DeleteVPC-1](./img/DeleteVPC-1.png)
